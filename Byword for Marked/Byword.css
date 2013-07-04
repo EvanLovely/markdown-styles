@@ -156,6 +156,10 @@ blockquote {
     padding: 0 10px;
     border-left: 3px solid #ddd;
     color: #777;
+    font-style: italic;
+}
+blockquote em {
+    font-style: normal;
 }
 table {
     margin-left: auto;
