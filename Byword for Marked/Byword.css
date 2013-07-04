@@ -86,6 +86,12 @@ ol {
 ul {
     list-style: outside disc;
 }
+ul ul {
+    list-style-type: square;
+}
+ul ul ul {
+    list-style-type: circle;
+}
 ol, ul {
     padding-left:0;
     margin-bottom:24px;
