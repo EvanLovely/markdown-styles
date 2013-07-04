@@ -255,12 +255,13 @@ mark {
 	    -webkit-box-shadow: none !important;
 	}
 	.inverted pre {
-	    background-color: #222 !important;
-	    border-color: #3c3c3c !important;
+	    /*background-color: #222 !important;*/
+	    /*border-color: #3c3c3c !important;*/
 	}
 	.inverted code {
-	    background-color: #222 !important;
-	    border-color: #3c3c3c !important;
+	    /*background-color: #222 !important;*/
+	    /*border-color: #3c3c3c !important;*/
+        color: #1a1a1a;
 	}
 	.inverted blockquote {
 	    border-color: #333 !important;
